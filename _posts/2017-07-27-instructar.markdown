@@ -2,7 +2,7 @@
 layout: post
 title:  "instructAR"
 date:   2017-07-31 12:55:26 -0400
-categories: jekyll update
+categories: project
 video: u0WpSVjNiTs
 thumbnail: instructAR_thumb
 ---

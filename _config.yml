@@ -17,7 +17,7 @@ title: JDA Labs
 
 description: >
   JDA Labs contributes in crafting tomorrow's supply chain.
-  We are a collective of eclectic and passionate peoples
+  We are a collective of eclectic and passionate people
   specializing in Data Science, Design and Technology.
 
 
@@ -40,6 +40,7 @@ google_analytics: UA-103509072-1
 markdown: kramdown
 plugins:
   - jekyll-feed
+permalink: /:categories/:year:month:day/:title
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
