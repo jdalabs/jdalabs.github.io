@@ -5,6 +5,7 @@ date:   2017-07-31 12:55:26 -0400
 categories: project
 video: u0WpSVjNiTs
 thumbnail: instructAR_thumb
+project_date: April 2017
 ---
 
 InstructAR is a set of visualization tools to overlay information directly onto a real world workspace allowing us to guide workers through complex, sometimes non-intuitive tasks simply and accurately. We are currently experimenting with applications of this idea to pallet and truck loading since loading instructions can become complex and loading accuracy is important for optimized pallet builds and truck loading plans.
