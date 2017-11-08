@@ -4,7 +4,7 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <div class="videoWrapper">
-    <iframe width="100%" height="auto" src="https://www.youtube.com/embed/{{ page.video}}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height="auto" src="https://www.youtube.com/embed/{{ page.video }}?rel=0&amp;showinfo=0{% if page.loop == 1 %}&amp;loop=1&amp;playlist={{ page.video }}{% endif %}{% if page.autoplay == 1 %}&amp;autoplay=1{% endif %}" frameborder="0" allowfullscreen></iframe>
   </div>
 
   <header class="post-header">

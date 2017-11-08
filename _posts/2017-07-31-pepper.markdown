@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Pepper: Shoe Assistant"
+date:   2017-07-31 8:00:0 -0400
+categories: project
+video: OerdsuyFY8s
+thumbnail: pepper_thumb
+project_date: Early 2017
+---
+
+Late in 2016, we were asked to reflect on how we could leverage humanoid robots in retail environments.
+
+# Problem Space
+We came up with a proposal that tackles a problem observed in shoe stores/departments: The employees need to check the inventory for the customer.
+The greatest distinction between shoes and other products is that, for shoes, a store will typically display only a floor model and does not give clear visibility over the availability.
+
+We wanted to experiment offloading part of this responsibility from the employees to a robot, in order allow more time to the employees to do what they are good at -- to help customers choose shoes that fits their needs.
+
+# Demo
+**Inventory visibility and task dispatch**
+
+Pepper can check the store inventory for particular sizes. If it is available, a task will be sent out to an employee in the back store or any other system able to fetch products.
+
+**Offers alternatives, if not available**
+
+If the size is not available, Pepper can identify alternatives for customers instead of plainly cutting short the customer's desire try/buy a pair of shoes.
+
+Plugged with a model that identifies similar products, it could propose other options that have high probability of appeal the customers.
+
+
+**Check other stores + NFC**
+
+Another alternative is to check other nearby stores for requested product availability. If interested the customer can tap his NFC enabled phone on the sensor to get a reservation confirmation and direction to the store.
+
+The RFID/NFC capabilities were added by us using a raspberry pi that communicates to Pepper. Pepper can instruct our sensor to communicate information via NFC or get information whenever there is a RFID tag that is read.
+
+**Complete transaction online**
+
+If the product is available online, the customer could use NFC to either order it directly with Pepper or continue the transaction in his phone.
+
+**Personalized interaction**
+
+Using NFC, a customer can scan his phone to communicate some information about his preferences. In our demo, the customer share his usual shoe size to Pepper. In the next iterations we could also share product interest and history of purchase. This would help Pepper propose relevant products.

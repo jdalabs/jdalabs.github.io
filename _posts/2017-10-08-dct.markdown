@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Digital Control Tower"
+date:   2017-10-08 8:00:0 -0400
+categories: project
+video: aJ2NILVZ1ow
+loop: 1
+autoplay: 1
+thumbnail: dct_thumb
+project_date: 2017
+
+---
+
+
+* Simplify data to help users understand complex situations.
+* Leverage Artificial Intelligence to propose sets of solutions to specific problems.
+* Gather input from numerous sources (social media, weather, traffic, local events, stock markets, etc) to improve quality of predictions.
+* Dispatch action items to other system to implement selected solution and monitor progress.
