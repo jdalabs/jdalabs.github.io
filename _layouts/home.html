@@ -13,7 +13,7 @@ layout: default
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <a class="post-link" href="{{ post.url | relative_url }}">
-        <video class="thumbnail" src="assets/project-images/{{post.thumbnail}}.mp4" loop poster="assets/project-images/{{post.thumbnail}}.png">
+        <video class="thumbnail" src="assets/project-images/{{post.thumbnail}}.mp4" loop muted poster="assets/project-images/{{post.thumbnail}}.png">
 </video></a>
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
