@@ -1,5 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-08T13:18:43-05:00</updated><id>http://localhost:4000/</id><title type="html">JDA Labs</title><subtitle>JDA Labs contributes in crafting tomorrow's supply chain. We are a collective of eclectic and passionate people specializing in Data Science, Design and Technology.
-</subtitle><entry><title type="html">Digital Control Tower</title><link href="http://localhost:4000/project/20171008/dct" rel="alternate" type="text/html" title="Digital Control Tower" /><published>2017-10-08T08:00:00-04:00</published><updated>2017-10-08T08:00:00-04:00</updated><id>http://localhost:4000/project/20171008/dct</id><content type="html" xml:base="http://localhost:4000/project/20171008/dct">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-23T15:52:47-04:00</updated><id>http://localhost:4000/</id><title type="html">JDA Labs</title><subtitle>JDA Labs contributes in crafting tomorrow's supply chain. We are a collective of eclectic and passionate people specializing in Data Science, Design and Technology.
+</subtitle><entry><title type="html">Research on Recommendation Agents</title><link href="http://localhost:4000/project/20180720/recommendation_agents_research" rel="alternate" type="text/html" title="Research on Recommendation Agents" /><published>2018-07-20T08:00:00-04:00</published><updated>2018-07-20T08:00:00-04:00</updated><id>http://localhost:4000/project/20180720/recommendation_agents_research</id><content type="html" xml:base="http://localhost:4000/project/20180720/recommendation_agents_research">&lt;p&gt;&lt;em&gt;In partnership with Tech&lt;sup&gt;3&lt;/sup&gt;Lab, we conducted a research on the impact of the visual representation of a recommendation agent on users’ perceptions and behaviors.&lt;/em&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We wanted to determine the extent to which the visual representations of a recommendation agent influence the perceptions and behaviors of retail professionals in assortment planning decision.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Do professionals trust the recommendations?&lt;/li&gt;
+  &lt;li&gt;What information help them trust the RA?&lt;/li&gt;
+  &lt;li&gt;Would they let the RA take decisions?
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Presentation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Artificial intelligence (AI) based recommendation agents (RA) can help planners make better decisions by processing a large quantity of decision relevant information. Research on user-RA interactions show that users benefit from RA, but that there are some challenges to their adoption. For instance, RA adoption can only happen if users trust the RA. Thus, this study investigates how the richness of the information provided by an RA and the effort necessary to reach this information influence users’ perceptions and usage.&lt;/p&gt;
+
+&lt;p&gt;A within-subject lab experiment was conducted with 20 participants. We tested 3 different conditions (tasks) with 2 scenarios. We gathered psychometric measures through a questionnaire and behavioral measures through an Eye tracking device (Smart Eye Pro).&lt;/p&gt;
+
+&lt;p&gt;Results suggest that perceptions toward the RA (trust, credibility, and satisfaction) are influenced by the RA information richness, but not by the effort needed to reach this information. In addition to contributing to HCI literature, the findings have implications for the design of better AI-based RA systems.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The results showed trends in the Retails Professionals’ perceptions and behaviors.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Perceptions&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The effort required to access the additional information does not have an impact on users’ perceptions.&lt;/li&gt;
+  &lt;li&gt;Information richness positively affects users’ perceptions.&lt;/li&gt;
+  &lt;li&gt;Users are more willing to adopt the RA as a decision aid than as a delegated agent for all three conditions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Behaviors&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Users are referring more to the additional information at the beginning of their decision-making process.&lt;/li&gt;
+  &lt;li&gt;When additional information is available, users consult more frequently the information easily accessible.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This research was presented at CHI 2018. The paper is available in &lt;a href=&quot;https://dl.acm.org/citation.cfm?id=3188639#.W1YvudjZSWM.link&quot;&gt;ACM Library&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">In partnership with Tech3Lab, we conducted a research on the impact of the visual representation of a recommendation agent on users’ perceptions and behaviors.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/recomm_agent" /></entry><entry><title type="html">Digital Control Tower</title><link href="http://localhost:4000/project/20171008/dct" rel="alternate" type="text/html" title="Digital Control Tower" /><published>2017-10-08T08:00:00-04:00</published><updated>2017-10-08T08:00:00-04:00</updated><id>http://localhost:4000/project/20171008/dct</id><content type="html" xml:base="http://localhost:4000/project/20171008/dct">&lt;ul&gt;
   &lt;li&gt;Simplify data to help users understand complex situations.&lt;/li&gt;
   &lt;li&gt;Leverage Artificial Intelligence to propose sets of solutions to specific problems.&lt;/li&gt;
   &lt;li&gt;Gather input from numerous sources (social media, weather, traffic, local events, stock markets, etc) to improve quality of predictions.&lt;/li&gt;
