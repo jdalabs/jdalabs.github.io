@@ -1,5 +1,108 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-23T16:26:52-04:00</updated><id>http://localhost:4000/</id><title type="html">JDA Labs</title><subtitle>JDA Labs contributes in crafting tomorrow's supply chain. We are a collective of eclectic and passionate people specializing in Data Science, Design and Technology.
-</subtitle><entry><title type="html">Research on Recommendation Agents</title><link href="http://localhost:4000/project/20180720/recommendation_agents_research" rel="alternate" type="text/html" title="Research on Recommendation Agents" /><published>2018-07-20T08:00:00-04:00</published><updated>2018-07-20T08:00:00-04:00</updated><id>http://localhost:4000/project/20180720/recommendation_agents_research</id><content type="html" xml:base="http://localhost:4000/project/20180720/recommendation_agents_research">&lt;p&gt;&lt;em&gt;In partnership with Tech&lt;sup&gt;3&lt;/sup&gt;Lab, we conducted a research on the impact of the visual representation of a recommendation agent on users’ perceptions and behaviors.&lt;/em&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-10T15:48:26-04:00</updated><id>http://localhost:4000/</id><title type="html">JDA Labs</title><subtitle>JDA Labs contributes in crafting tomorrow's supply chain. We are a collective of eclectic and passionate people specializing in Data Science, Design and Technology.
+</subtitle><entry><title type="html">Research on Gamification in Warehouses</title><link href="http://localhost:4000/project/20180910/warehouse-gamification_research" rel="alternate" type="text/html" title="Research on Gamification in Warehouses" /><published>2018-09-10T08:00:00-04:00</published><updated>2018-09-10T08:00:00-04:00</updated><id>http://localhost:4000/project/20180910/warehouse-gamification_research</id><content type="html" xml:base="http://localhost:4000/project/20180910/warehouse-gamification_research">&lt;p&gt;&lt;em&gt;In partnership with Tech&lt;sup&gt;3&lt;/sup&gt;Lab, we conducted a research on the impact of gamified interfaces on the engagement and performance of employees in a warehouse.&lt;/em&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Our goal was to to determine what effect the gamification of warehouse employee’s interface
+has on his/her engagement and performance.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Does gamification improve employee performance?&lt;/li&gt;
+  &lt;li&gt;Does gamification improve employee engagement?&lt;/li&gt;
+  &lt;li&gt;What type of gamification method (self-set or assigned goals) leads to better performance?&lt;/li&gt;
+  &lt;li&gt;What type of gamification method (self-set or assigned goals) leads to higher engagement?
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Presentation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Gamification is defined as the “use of game design elements in non-game contexts”. In other words, gamification employs the engaging nature of elements used in video games to create engagement in another context. Some of the common elements used in gamified interfaces are points, levels, goal-setting, feedback, badges and leaderboards.&lt;/p&gt;
+
+&lt;p&gt;Recently, workplace gamification has become more prevalent and has been proposed as solution to this lack of engagement (Zichermann &amp;amp; Cunningham, 2011; Google Trends, 2012). Indeed, only 13% of employees worldwide consider themselves as engaged in their work (Mann &amp;amp;Harter, 2016). 
+The use of gamification has been widespread across various domains and contexts. For example, within education/schools to increase learning outcomes (Garcia et al., 2018; Gooch, 2016), to within health to increase adherence to and enjoyment of rehabilitation exercises (Jacobs et al., 2013), to within a driving context to increase safety (Steinberger et al., 2017). However, there have been relatively few examples of attempting to integrate gamification in warehouse employees’ interface, a domain that has mainly focused on optimizing the warehousing tasks, as opposed to the human performing it (Small, 2010). The lack of emphasis on the human aspect offers a great opportunity for increasing employee engagement and performance.&lt;/p&gt;
+
+&lt;p&gt;The current study will focus on two of gamified elements: goal-setting and feedback.
+The experiment will also allow for the examination of the physiological mechanisms (Electrocardiography (ECG) and electrodermal activity (EDA) sensors and electroencephalography (EEG)) by which gamification affects performance. 
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The research demonstrated the following:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Gamification improved employee performance&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Results have shown that gamification (of either kind) results in increased performance in
+terms of time taken to complete the task. No difference has been found in number of errors.
+&lt;br /&gt;&lt;br /&gt;
+&lt;em&gt;Gamification improved employee engagement&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Results show that gamification (of either kind) results in more engagement, in both measured
+facets of perceived engagement (cognitive and emotional). 
+Results show that gamification (of either kind) results in more physiological
+engagement. Affective intensity, measured by EDA, is an indicator of emotional engagement.
+Most participants also mentioned that they felt more motivated/engaged when the had a goal of
+any kind. It made the task less tedious and gave them a challenge. No participant preferred
+the condition without gamification.
+&lt;br /&gt;&lt;br /&gt;
+&lt;em&gt;Company set goals improve performance&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Results show that assigned goals result in better performance, both in terms of time and errors.
+&lt;br /&gt;&lt;br /&gt;
+&lt;em&gt;Assigned goals improve engagement but may not be sustainable on the long term&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Participants do not report any difference in emotional or cognitive engagement between both
+gamified conditions. The physiological data, however, tells a different story. Assigned goals
+generate more arousal and high Heart Rate and thus, more possibility emotional engagement.
+However, it is not possible to exclude that Heart Rate increases due to the fact that participants are performing the task faster. Therefore, we cannot exclude the possibility that this condition
+may not be sustainable over a day period as it could lead to fatigue and exhaustion. When
+looking at the interview data, it is hard to differentiate which condition was the most
+preferred. Condition preference seemed to result from personal taste. 
+9 of the 21 participants preferred the assigned goal condition. Some preferred this condition
+because they took the goal more seriously (because it came from a “company”) which made
+them more motivated to reach the goal. Others preferred this condition because they did not
+have to decide which goal to choose, the objective was clear and unambiguous. 12 of the 21
+preferred the self-set goal conditions. Some mentioned that they preferred this condition
+because it made them feel more motivated because the goal seemed to come from
+themselves. Others preferred this condition because they could choose a goal based on how
+they are feeling that day.&lt;/p&gt;
+
+&lt;p&gt;It would be interesting to correlate those results to the type of gaming personalities of the participants.&lt;/p&gt;
+
+&lt;p&gt;This study also provided some insights on the usability of the wearable device’s interface that the participants used during the experimentation and how we could improve it.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+This research was presented at NeuroIS Retreat 2018. The paper is available in the &lt;a href=&quot;http://www.neurois.org/wp-content/uploads/2018/06/Preprint-Proceedings-Part-2.pdf#page=39&quot;&gt;proceeding&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">In partnership with Tech3Lab, we conducted a research on the impact of gamified interfaces on the engagement and performance of employees in a warehouse.</summary></entry><entry><title type="html">Blockchain for Supply Chain</title><link href="http://localhost:4000/project/20180910/blockchain" rel="alternate" type="text/html" title="Blockchain for Supply Chain" /><published>2018-09-10T08:00:00-04:00</published><updated>2018-09-10T08:00:00-04:00</updated><id>http://localhost:4000/project/20180910/blockchain</id><content type="html" xml:base="http://localhost:4000/project/20180910/blockchain">&lt;h1 id=&quot;brief&quot;&gt;Brief&lt;/h1&gt;
+
+&lt;p&gt;In January 2018, we started to explore blockchain technologies as a mechanism to support and manage transactions in a digital supply chain. We initially identified four use-case categories where a blockchain could be leveraged.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Close business collaboration
+    &lt;ul&gt;
+      &lt;li&gt;Shared data between producers, distributors and retailers (de-centralized, immutable)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;End-to-end Traceability
+    &lt;ul&gt;
+      &lt;li&gt;Product provenance (organic, fair-trade)&lt;/li&gt;
+      &lt;li&gt;Food safety and regulation / Cold chain compliance, …&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Disintermediation
+    &lt;ul&gt;
+      &lt;li&gt;Eliminate margin-hurting participants (agents, wholesalers, certification bodies…)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Digitalization and automation
+    &lt;ul&gt;
+      &lt;li&gt;Smart supply chain, digital documents, Internet of Thing (IoT)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As the initial use cases are not related to cryptocurrencies, we decided to focus on enterprise blockchain frameworks and we selected Hyperledger Fabric for our first prototype.&lt;/p&gt;
+
+&lt;h1 id=&quot;prototype&quot;&gt;Prototype&lt;/h1&gt;
+&lt;p&gt;The blockchain Labs prototype is about product traceability in the supply chain. A blockchain is used to identify multiple participants in a business network (farmers, manufacturers, distributors, stores) and to manage transactions between them. For a specific product (Orange Juice), the application captures and logs transactions between supply chain stakeholders.Tthe system provides a digital proof of ownership over time (where is the product, who owns it).
+As blockchain information will never be modified or deleted, the system supports supply chain traceability and audit scenarios. For a specific bottle of orange juice, it is possible to identify all the supply chain participants, back to the farmers who provided the oranges.&lt;/p&gt;</content><author><name></name></author><summary type="html">Brief In January 2018, we started to explore blockchain technologies as a mechanism to support and manage transactions in a digital supply chain. We initially identified four use-case categories where a blockchain could be leveraged. Close business collaboration Shared data between producers, distributors and retailers (de-centralized, immutable) End-to-end Traceability Product provenance (organic, fair-trade) Food safety and regulation / Cold chain compliance, … Disintermediation Eliminate margin-hurting participants (agents, wholesalers, certification bodies…) Digitalization and automation Smart supply chain, digital documents, Internet of Thing (IoT)</summary></entry><entry><title type="html">Research on Recommendation Agents</title><link href="http://localhost:4000/project/20180720/recommendation_agents_research" rel="alternate" type="text/html" title="Research on Recommendation Agents" /><published>2018-07-20T08:00:00-04:00</published><updated>2018-07-20T08:00:00-04:00</updated><id>http://localhost:4000/project/20180720/recommendation_agents_research</id><content type="html" xml:base="http://localhost:4000/project/20180720/recommendation_agents_research">&lt;p&gt;&lt;em&gt;In partnership with Tech&lt;sup&gt;3&lt;/sup&gt;Lab, we conducted a research on the impact of the visual representation of a recommendation agent on users’ perceptions and behaviors.&lt;/em&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/p&gt;
